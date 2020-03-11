@@ -1,6 +1,6 @@
 {
-  "name": "@jaidis/react-native-ibeacon-simulator",
-  "version": "1.0.13",
+  "name": "@AlexanderMcArthur/react-native-ibeacon-simulator",
+  "version": "1.0.14",
   "description": "A cool package for simulate your iOS devices as beacon (compatible with RN ^0.57.5)",
   "author": "William Tran <chitran.whitecat@gmail.com>",
   "contributors": [
@@ -22,7 +22,7 @@
   ],
   "license": "MIT",
   "bugs": {
-  "url": "https://github.com/jaidis/react-native-ibeacon-simulator/issues"
+  "url": "https://github.com/AlexanderMcArthur/react-native-ibeacon-simulator/issues"
   },
-  "homepage": "https://github.com/jaidis/react-native-ibeacon-simulator#readme"
+  "homepage": "https://github.com/AlexanderMcArthur/react-native-ibeacon-simulator#readme"
 }
