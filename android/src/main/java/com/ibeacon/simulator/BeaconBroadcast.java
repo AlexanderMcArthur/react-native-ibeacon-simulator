@@ -84,7 +84,7 @@ public class BeaconBroadcast extends ReactContextBaseJavaModule {
 
     @ReactMethod
     public void startSharedAdvertisingBeaconWithString(String uuid, int major, int minor, String identifier, Callback onError) {
-        int manufacturer = 0x4C;
+        int manufacturer = 0x0118;
         try {
             Beacon beacon = new Beacon.Builder()
                     .setId1(uuid)
